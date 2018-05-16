@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1 HBC Schedule release
+  p Welcome to the HBC Schedule release, please upload a .CSV file of the schedule to continue.
+
+  form(action='schedule/submit', enctype='multipart/form-data', method='post')
+    //input(type='file', name='ScheduleFile', accept='.csv')
+    input(type='file', name='ScheduleFile')
+    br
+    br
+    button(type='submit') submit
