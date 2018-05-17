@@ -2,7 +2,8 @@ let express = require('express');
 let router = express.Router();
 const multer = require('multer');
 const path = require('path');
-const lineReader = require('line-by-line');
+const mongoose = require('mongoose');
+const csv = require('csvtojson');
 
 //global var
 const base = path.resolve('.');
@@ -21,22 +22,18 @@ let storage = multer.diskStorage ({
 let upload = multer({ storage: storage });
 
 
-function fileReadPromise(fileName){
-    return new Promise((resolve, reject) => {
-        lr = new lineReader(fileName);
-
-        lr.on('line', function(line){
-            console.log(line);
-        });
+fileRead = function (req, res, next){
+    csv()
+    .fromFile(filePath + req.file.filename)
+    .on('json',(jsonObj)=>{
+        console.log(jsonObj);
+    })
+    .on('done',(error)=>{
+        next();
     });
-}
-
-
-const extractData = function(req, res, next) {
-    fileReadPromise(filePath + req.file.filename).then(next());
 };
 
-router.post('/submit', upload.single('ScheduleFile'), extractData,function(req, res, next) {
+router.post('/submit', upload.single('ScheduleFile'), fileRead, function(req, res, next) {
     res.redirect("/");
 });
 
