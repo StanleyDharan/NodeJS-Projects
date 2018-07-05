@@ -4,7 +4,8 @@ import axios from 'axios'
 class Upload extends React.Component{
     state = {
         selectedFile: null,
-        scheduleId: null
+        scheduleId: null,
+        date: null
     };
 
     fileSelectHandler = event =>{
@@ -13,22 +14,34 @@ class Upload extends React.Component{
         });
     };
 
+    dateSelectHandler = event =>{
+      this.setState({date: event.target.value});
+    };
+
     FileUploadHandler = event =>{
-        const fd = new FormData();
-        fd.append('ScheduleFile', this.state.selectedFile, this.state.selectedFile.name);
-        axios.post('http://localhost:3001/schedule/submit', fd)
-            .then(res =>{
-                this.props.scheduleId(res.data._id);
+        const file = new FormData();
+        file.append('ScheduleFile', this.state.selectedFile, this.state.selectedFile.name);
+        file.append('DateEffective', this.state.date);
+        axios.post('http://localhost:3001/schedule/submit', file)
+            .then (res =>{
+                this.setState({scheduleId: res.data._id});
+                this.props.getScheduleId(this.state.scheduleId);
+
             });
     };
 
     render(){
         return(
             <div>
-                <input type='file' required onChange={this.fileSelectHandler}/>
-                <br/>
-                <br/>
-                <button onClick={this.FileUploadHandler} >Submit</button>
+                <form action='/schedules'>
+                    <input type='file' required onChange={this.fileSelectHandler}/>
+                    <br/>
+                    <p>Enter the date that this schedule will be active:</p>
+                    <input type='date' name='effectiveDate' onChange={this.dateSelectHandler}/>
+                    <br/>
+                    <br/>
+                    <button onClick={this.FileUploadHandler} >Submit</button>
+                </form>
             </div>
         );
     }

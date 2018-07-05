@@ -8,7 +8,6 @@ const Shift = require('../models/shifts-model');
 const Schedule = require('../models/schedule-model');
 const fs = require('fs');
 
-
 //path to schedule storage
 const filePath = path.resolve('.') + '/schedules/';
 
@@ -51,6 +50,18 @@ async function readJson (req, res, scheduleId){
     });
 }
 
+router.get('/all', async function (req, res) {
+    await mongoose.connect('mongodb://localhost:27017/Schedules').exec;
+    await Schedule.find().sort({'_id': -1}).exec(async function (err, schedules) {
+        if(err){
+            console.log(err);
+            res.send('error');
+        } else {
+            res.setHeader('Access-Control-Allow-Origin', '*');
+            res.send(schedules);
+        }
+    });
+});
 
 
 router.get('/:id', async function (req, res) {
@@ -67,14 +78,18 @@ router.get('/:id', async function (req, res) {
 });
 
 router.post('/submit', upload.single('ScheduleFile'), async function(req, res) {
-    const schedule = new Schedule({effectiveWeek: `TEMP`});
+    const schedule = new Schedule({effectiveWeek: `${req.body.DateEffective}`});
     await mongoose.connect('mongodb://localhost:27017/Schedules').exec;
     await schedule.save();
     await Schedule.find({}).sort({'_id': -1}).limit(1).exec(async function (err, schedule) {
-        await readJson(req, res, schedule[0]._id);
-        // res.redirect(`/schedule/${schedule[0]._id}`);
-        res.setHeader('Access-Control-Allow-Origin', '*');
-        res.send(schedule[0]);
+        if(err){
+            console.log('error!!!!:' + err);
+        }else {
+            await readJson(req, res, schedule[0]._id);
+            // res.redirect(`/schedule/${schedule[0]._id}`);
+            //res.redirect(`/schedule/current?${req.body.DateEffective}`);
+            res.send(schedule[0]._id);
+        }
     });
 });
 

@@ -1,0 +1,999 @@
+Product,Price,Payment_Type,Name,Date
+Product1,1200,Mastercard,carolina,2018-05-31
+Product1,1200,Visa,Betina,2018-05-31
+Product1,1200,Mastercard,Federica e Andrea,2018-05-31
+Product1,1200,Visa,Gouya,2018-05-31
+Product2,3600,Visa,Gerd W ,2018-05-31
+Product1,1200,Visa,LAURENCE,2018-05-31
+Product1,1200,Mastercard,Fleur,2018-05-31
+Product1,1200,Mastercard,adam,2018-05-31
+Product1,1200,Mastercard,Renee Elisabeth,2018-05-31
+Product1,1200,Visa,Aidan,2018-05-31
+Product1,1200,Diners,Stacy,2018-05-31
+Product1,1200,Amex,Heidi,2018-05-31
+Product1,1200,Mastercard,Sean ,2018-05-31
+Product1,1200,Visa,Georgia,2018-05-31
+Product1,1200,Visa,Richard,2018-05-31
+Product1,1200,Diners,Leanne,2018-05-31
+Product1,1200,Visa,Janet,2018-05-31
+Product1,1200,Diners,barbara,2018-05-31
+Product2,3600,Visa,Sabine,2018-05-31
+Product1,1200,Diners,Hani,2018-05-31
+Product1,1200,Visa,Jeremy,2018-05-31
+Product1,1200,Diners,Janis,2018-05-31
+Product1,1200,Mastercard,Nicola,2018-05-31
+Product1,1200,Visa,asuman,2018-05-31
+Product1,1200,Mastercard,Lena,2018-05-31
+Product1,1200,Visa,Lisa,2018-05-31
+Product1,1200,Diners,Bryan Kerrene,2018-05-31
+Product1,1200,Visa,chris,2018-05-31
+Product1,1200,Visa,Maxine,2018-05-31
+Product1,1200,Visa,Family,2018-05-31
+Product1,1200,Mastercard,Katherine,2018-05-31
+Product1,1200,Mastercard,Linda,2018-05-31
+Product1,1200,Mastercard,SYLVIA,2018-05-31
+Product1,1200,Diners,Sheila,2018-05-31
+Product1,1200,Mastercard,Stephanie,2018-05-31
+Product1,1200,Amex,Kelly,2018-05-31
+Product2,3600,Visa,James,2018-05-31
+Product1,1200,Visa,jennifer,2018-05-31
+Product1,1200,Mastercard,Anneli,2018-05-31
+Product2,3600,Amex,Ritz,2018-05-31
+Product2,3600,Amex,Sylvia,2018-05-31
+Product1,1200,Mastercard,Marie,2018-05-31
+Product1,1200,Visa,Mehmet Fatih,2018-05-31
+Product2,3600,Visa,Anabela,2018-05-31
+Product1,1200,Amex,Nicole,2018-05-31
+Product2,3600,Visa,Christiane ,2018-05-31
+Product1,1200,Mastercard,Sari,2018-05-31
+Product1,1200,Mastercard,simone,2018-05-31
+Product1,1200,Amex,Vanessa,2018-05-31
+Product1,1200,Diners,Anupam,2018-05-31
+Product1,1200,Visa,Karina,2018-05-31
+Product1,1200,Mastercard,Frank,2018-05-31
+Product1,1200,Visa,Angela,2018-05-31
+Product1,1200,Visa,Darren,2018-05-31
+Product1,1200,Mastercard,Nikki,2018-05-31
+Product1,1200,Visa,chris,2018-05-31
+Product1,1200,Visa,Stephanie,2018-05-31
+Product1,1200,Visa,Anushka,2018-05-31
+Product1,1200,Mastercard,June ,2018-05-31
+Product2,3600,Diners,Baybars,2018-05-31
+Product1,1200,Mastercard,Bonnie,2018-05-31
+Product1,1200,Visa,Cindy ,2018-05-31
+Product1,1200,Mastercard,chrissy,2018-05-31
+Product1,1200,Mastercard,Tamar,2018-05-31
+Product2,3600,Mastercard,Deirdre,2018-05-31
+Product1,1200,Mastercard,Bernadett,2018-05-31
+Product1,1200,Visa,Dottie,2018-05-31
+Product1,1200,Visa,Stefan,2018-05-31
+Product1,1200,Visa,Gina,2018-05-31
+Product1,1200,Diners,Lynne,2018-05-31
+Product1,1200,Mastercard,Tammy,2018-05-31
+Product1,1200,Visa,Kim,2018-05-31
+Product1,1200,Visa,Bruce,2018-05-31
+Product1,1200,Visa,Rosa Maria,2018-05-31
+Product1,1200,Visa,Lydia,2018-05-31
+Product1,1200,Visa,Eric,2018-05-31
+Product1,1200,Mastercard,AnaPaula,2018-05-31
+Product1,1200,Visa,Robin,2018-05-31
+Product1,1200,Visa,Gitte,2018-05-31
+Product1,1200,Visa,Dr. Claudia,2018-05-31
+Product1,1200,Visa,Crystal,2018-05-31
+Product1,1200,Diners,Delphine,2018-05-31
+Product1,1200,Visa,nathalie,2018-05-31
+Product1,1200,Mastercard,Lindi,2018-05-31
+Product2,3600,Mastercard,Valda,2018-05-31
+Product2,3600,Mastercard,Marcia,2018-05-31
+Product1,1200,Mastercard,Kevin,2018-05-31
+Product1,1200,Visa,Clare,2018-05-31
+Product1,1200,Visa,Alice,2018-05-31
+Product1,1200,Mastercard,ZENA,2018-05-31
+Product1,1200,Visa,Andrea,2018-05-31
+Product1,1200,Visa,Rennae,2018-05-31
+Product1,1200,Visa,Gerhard,2018-05-31
+Product1,1200,Amex,Megan,2018-05-31
+Product1,1200,Mastercard,Danielle,2018-05-31
+Product1,1200,Mastercard,Tod,2018-05-31
+Product1,1200,Visa,Janaina,2018-05-31
+Product1,1200,Visa,Kofi,2018-05-31
+Product1,1200,Visa,Jennifer,2018-05-31
+Product1,1200,Visa,Jolene ,2018-05-31
+Product1,1200,Mastercard,anne,2018-05-31
+Product1,1200,Mastercard,Alexis,2018-05-31
+Product1,1200,Visa,Dez,2018-05-31
+Product1,1200,Visa,Stephanie,2018-05-31
+Product1,1200,Visa,Melissa ,2018-05-31
+Product1,1200,Amex,CLARE,2018-05-31
+Product1,1200,Mastercard,catherine,2018-05-31
+Product1,1200,Visa,Veronique ,2018-05-31
+Product1,1200,Mastercard,Bruce and Camille,2018-05-31
+Product1,1200,Mastercard,Ellen,2018-05-31
+Product1,1200,Visa,Amy,2018-05-31
+Product1,1200,Visa,Anna,2018-05-31
+Product1,1200,Mastercard,Regina,2018-05-31
+Product1,1200,Visa,Heidi,2018-05-31
+Product1,1200,Visa,Jessica,2018-05-31
+Product1,1200,Diners,Petra,2018-05-31
+Product1,1200,Visa,Brian,2018-05-31
+Product1,1200,Visa,Kenny,2018-05-31
+Product1,1200,Amex,ayse,2018-05-31
+Product1,1200,Amex,Maria and Timothy,2018-05-31
+Product1,1200,Visa,IMAN,2018-05-31
+Product1,2100,Mastercard,Gerald,2018-05-31
+Product1,1200,Mastercard,Annelies,2018-05-31
+Product1,1200,Amex,Jocelyn,2018-05-31
+Product1,1200,Visa,Kara,2018-05-31
+Product1,1200,Visa,Orsi,2018-05-31
+Product1,1200,Visa,Ben,2018-05-31
+Product1,1200,Visa,Sam,2018-05-31
+Product1,1200,Visa,Filip and Teresa,2018-05-31
+Product1,1200,Visa,Grace ,2018-05-31
+Product1,1200,Visa,Chelsey ,2018-05-31
+Product1,1200,Amex,Charis,2018-05-31
+Product1,1200,Visa,Marlene,2018-05-31
+Product1,1200,Visa,Fie,2018-05-31
+Product1,1200,Diners,Nicole ,2018-05-31
+Product1,1200,Diners,Linda,2018-05-31
+Product1,1200,Visa,Janet,2018-05-31
+Product1,1200,Mastercard,Jamie,2018-05-31
+Product1,1200,Visa,Chad,2018-05-31
+Product1,1200,Mastercard,sunny,2018-05-31
+Product1,1200,Visa,Anna,2018-05-31
+Product1,1200,Diners,Roger,2018-05-31
+Product1,1200,Mastercard,Si,2018-05-31
+Product1,1200,Visa,Sherri,2018-05-31
+Product1,1200,Mastercard,Katherine,2018-05-31
+Product1,1200,Mastercard,Clare,2018-05-31
+Product1,1200,Amex,Campbell,2018-05-31
+Product1,1200,Visa,Ruth,2018-05-31
+Product2,3600,Visa,Cheryl,2018-05-31
+Product1,1200,Visa,Doug,2018-05-31
+Product3,7500,Mastercard,Julianne,2018-05-31
+Product1,1200,Visa,Shailesh,2018-05-31
+Product1,1200,Visa,Conrad,2018-05-31
+Product1,1200,Diners,Alison,2018-05-31
+Product1,1200,Mastercard,Tracy,2018-05-31
+Product1,1200,Visa,Kate,2018-05-31
+Product1,1200,Diners,Sarka,2018-05-31
+Product2,3600,Visa,Therese,2018-05-31
+Product2,3600,Visa,Abdul-L,2018-05-31
+Product2,3600,Visa,heidi,2018-05-31
+Product2,3600,Visa,jiyoung,2018-05-31
+Product1,1200,Visa,Klara,2018-05-31
+Product1,1200,Mastercard,Andrew,2018-05-31
+Product1,1200,Visa,Vicki and Bill,2018-05-31
+Product1,1200,Mastercard,David,2018-05-31
+Product1,1200,Mastercard,Antonella,2018-05-31
+Product1,1200,Visa,David,2018-05-31
+Product1,1200,Visa,Greg,2018-05-31
+Product1,1200,Visa,Jannik ,2018-05-31
+Product1,1200,Visa,Sylvia,2018-05-31
+Product1,1200,Amex,Bernadette,2018-05-31
+Product1,1200,Diners,Denise,2018-05-31
+Product2,3600,Visa,Caren,2018-05-31
+Product1,1200,Visa,luciana,2018-05-31
+Product1,1200,Diners,Maja,2018-05-31
+Product2,3600,Visa,Kristen,2018-05-31
+Product1,1200,Visa,Kirstie,2018-05-31
+Product1,1200,Visa,Scott ,2018-05-31
+Product1,1200,Mastercard,Jammie,2018-05-31
+Product1,1200,Mastercard,Frank,2018-05-31
+Product1,1200,Mastercard,scott,2018-05-31
+Product1,1200,Visa,Jiri,2018-05-31
+Product2,3600,Visa,Bev,2018-05-31
+Product1,1200,Visa,Dave and Amy,2018-05-31
+Product1,1200,Mastercard,Rebecca,2018-05-31
+Product1,1200,Visa,Melissa,2018-05-31
+Product1,1200,Amex,jeremy,2018-05-31
+Product1,1200,Visa,Randy,2018-05-31
+Product1,1200,Visa,Djeiny,2018-05-31
+Product3 ,7500,Mastercard,Amanda,2018-05-31
+Product1,1200,Mastercard,Andrea ,2018-05-31
+Product1,1200,Amex,Joanna,2018-05-31
+Product1,1200,Visa,Jessica,2018-05-31
+Product1,1200,Amex,alison,2018-05-31
+Product1,1200,Visa,malin,2018-05-31
+Product2,3600,Visa,Tiffany ,2018-05-31
+Product1,1200,Visa,Genevieve,2018-05-31
+Product1,1200,Mastercard,Saraya,2018-05-31
+Product1,1200,Mastercard,Anastasia,2018-05-31
+Product1,1200,Visa,Elizabeth,2018-05-31
+Product1,1200,Visa,Nicole,2018-05-31
+Product1,1200,Visa,Jeffrey,2018-05-31
+Product1,1200,Mastercard,Blanca Gabriela ,2018-05-31
+Product1,1200,Amex,Elisa,2018-05-31
+Product2,3600,Mastercard,Patricia ,2018-05-31
+Product1,1200,Visa,Bob,2018-05-31
+Product3,7500,Visa,Kristyn,2018-05-31
+Product1,1200,Visa,Elizabeth,2018-05-31
+Product1,1200,Amex,Cathy,2018-05-31
+Product2,3600,Amex,Kaylee,2018-05-31
+Product1,1200,Visa,suzanne,2018-05-31
+Product1,1200,Mastercard,Cassandra,2018-05-31
+Product1,1200,Mastercard,Jennifer,2018-05-31
+Product1,1200,Visa,nicole,2018-05-31
+Product1,1200,Visa,Sean,2018-05-31
+Product1,1200,Mastercard,Morgan,2018-05-31
+Product1,1200,Diners,Harriet,2018-05-31
+Product1,1200,Mastercard,Janine,2018-05-31
+Product1,1200,Mastercard,Debora,2018-05-31
+Product1,1200,Visa,Vishpala,2018-05-31
+Product1,1200,Amex,Emer,2018-05-31
+Product1,1200,Diners,john,2018-05-31
+Product1,1200,Mastercard,lailani,2018-05-31
+Product2,3600,Visa,STEPHANIE,2018-05-31
+Product1,1200,Visa,Tricia,2018-05-31
+Product1,1200,Visa,Celina,2018-05-31
+Product2,3600,Visa,Rosemary,2018-05-31
+Product1,1200,Visa,Patrick,2018-05-31
+Product1,1200,Mastercard,Jacob,2018-05-31
+Product1,1200,Visa,elisabeth,2018-05-31
+Product2,3600,Visa,ayelet,2018-05-31
+Product2,3600,Visa,seemab,2018-05-31
+Product2,3600,Amex,Lucien,2018-05-31
+Product1,1200,Visa,Kevin ,2018-05-31
+Product1,1200,Mastercard,Liban,2018-05-31
+Product2,3600,Diners,Lesley,2018-05-31
+Product1,1200,Visa,Marie,2018-05-31
+Product1,1200,Visa,Charlene,2018-05-31
+Product1,1200,Visa,Orit,2018-05-31
+Product1,1200,Visa,Alan,2018-05-31
+Product2,3600,Mastercard,Anja Langer,2018-05-31
+Product1,1200,Visa,Lina,2018-05-31
+Product1,1200,Amex,Larry,2018-05-31
+Product1,1200,Visa,Jessica,2018-05-31
+Product3,7500,Visa,Marion,2018-05-31
+Product1,1200,Amex,Eric,2018-05-31
+Product1,1200,Amex,Miriane,2018-05-31
+Product1,1200,Visa,Jeff,2018-05-31
+Product1,1200,Diners,christina,2018-05-31
+Product1,1200,Mastercard,Shannon,2018-05-31
+Product1,1200,Mastercard,Angela,2018-05-31
+Product1,1200,Visa,Angela,2018-05-31
+Product1,1200,Mastercard,Elaine,2018-05-31
+Product1,1200,Visa,Helen,2018-05-31
+Product2,3600,Amex,Fatisha,2018-05-31
+Product1,1200,Visa,Nina,2018-05-31
+Product2,3600,Visa,Barbara,2018-05-31
+Product1,1200,Diners,Karen,2018-05-31
+Product1,1200,Visa,Georgina,2018-05-31
+Product1,1200,Diners,Kellie,2018-05-31
+Product1,1200,Mastercard,Terry,2018-05-31
+Product2,3600,Visa,LAURIE,2018-05-31
+Product1,1200,Visa,frauke,2018-05-31
+Product2,3600,Mastercard,Cindy,2018-05-31
+Product1,1200,Visa,Simone,2018-05-31
+Product1,1200,Visa,Hilde ,2018-05-31
+Product1,1200,Visa,Leah,2018-05-31
+Product1,1200,Visa,Laine,2018-05-31
+Product1,1200,Visa,kirsten,2018-05-31
+Product2,3600,Mastercard,Elizabeth,2018-05-31
+Product1,1200,Mastercard,Anna,2018-05-31
+Product1,1200,Diners,Babs,2018-05-31
+Product1,1200,Mastercard,Gerlinde,2018-05-31
+Product1,1200,Mastercard,Hollyn,2018-05-31
+Product1,1200,Visa,leiser,2018-05-31
+Product2,3600,Mastercard,Irene,2018-05-31
+Product1,1200,Amex,Lisa,2018-05-31
+Product1,1200,Visa,Ann,2018-05-31
+Product1,1200,Mastercard,Nichol Jane,2018-05-31
+Product1,1200,Amex,Beatriz,2018-05-31
+Product1,1200,Mastercard,corina,2018-05-31
+Product1,1200,Mastercard,manon,2018-05-31
+Product1,1200,Diners,Isabelle,2018-05-31
+Product1,1200,Visa,Lynne,2018-05-31
+Product1,1200,Mastercard,Doug,2018-05-31
+Product1,1200,Mastercard,AMY,2018-05-31
+Product1,1200,Visa,Kim,2018-05-31
+Product1,1200,Mastercard,HELIDA,2018-05-31
+Product1,1200,Visa,Cameron,2018-05-31
+Product1,1200,Mastercard,Wendy,2018-05-31
+Product2,3600,Mastercard,Jane,2018-05-31
+Product2,3600,Visa,shelby,2018-05-31
+Product1,1200,Mastercard,Tara,2018-05-31
+Product1,1200,Amex,James,2018-05-31
+Product1,800,Amex,Heloise ,2018-05-31
+Product1,1200,Mastercard,Gabriel,2018-05-31
+Product1,1200,Visa,Jodie ,2018-05-31
+Product1,1200,Amex,Jeremy,2018-05-31
+Product1,1200,Visa,Helga,2018-05-31
+Product1,1200,Visa,Eleanor,2018-05-31
+Product1,1200,Diners,Miss,2018-05-31
+Product1,1200,Visa,Marie,2018-05-31
+Product1,1200,Mastercard,Lisa,2018-05-31
+Product1,1200,Mastercard,Priska,2018-05-31
+Product1,1200,Visa,Katrine,2018-05-31
+Product1,1200,Amex,Lisa,2018-05-31
+Product1,1200,Visa,Sabrina,2018-05-31
+Product1,1200,Visa,prof,2018-05-31
+Product1,1200,Mastercard,KeithMichelle,2018-05-31
+Product1,1200,Mastercard,Kim,2018-05-31
+Product1,1200,Visa,anissa,2018-05-31
+Product1,1200,Mastercard,john,2018-05-31
+Product2,3600,Visa,Miye,2018-05-31
+Product1,1200,Diners,Heidi,2018-05-31
+Product1,1200,Mastercard,T,2018-05-31
+Product2,3600,Visa,Daniele,2018-05-31
+Product1,1200,Diners,luisa,2018-05-31
+Product1,1200,Visa,Nadine,2018-05-31
+Product1,1200,Mastercard,Tina,2018-05-31
+Product1,1200,Diners,Damali,2018-05-31
+Product1,1200,Visa,Katherine,2018-05-31
+Product1,1200,Visa,Kathryn,2018-05-31
+Product1,1200,Diners,Veronique,2018-05-31
+Product1,1200,Visa,Erica,2018-05-31
+Product1,1200,Visa,L,2018-05-31
+Product1,1200,Mastercard,Diana,2018-05-31
+Product1,1200,Mastercard,Emma,2018-05-31
+Product1,1200,Visa,Marina,2018-05-31
+Product1,1200,Mastercard,Natalie ,2018-05-31
+Product1,1200,Diners,Brenda,2018-05-31
+Product1,1200,Diners,Nita,2018-05-31
+Product1,1200,Mastercard,Marian,2018-05-31
+Product1,1200,Visa,Kevin,2018-05-31
+Product1,1200,Visa,cari,2018-05-31
+Product1,1200,Visa,Cassandra,2018-05-31
+Product1,1200,Amex,Christof and Heidi,2018-05-31
+Product1,1200,Visa,Ina,2018-05-31
+Product1,1200,Visa,Lisa,2018-05-31
+Product1,1200,Visa,Camille and Carmen,2018-05-31
+Product2,3600,Visa,Trina,2018-05-31
+Product1,1200,Visa,Ginger,2018-05-31
+Product1,1200,Visa,breon,2018-05-31
+Product1,1200,Visa,Marion,2018-05-31
+Product1,1200,Mastercard,Pia ,2018-05-31
+Product1,1200,Visa,Dr. Donald,2018-05-31
+Product2,3600,Visa,Jenna and Paul,2018-05-31
+Product1,1200,Mastercard,Rebecca,2018-05-31
+Product1,1200,Mastercard,Monique,2018-05-31
+Product1,1200,Diners,lilia ,2018-05-31
+Product1,1200,Mastercard,Lainey,2018-05-31
+Product2,3600,Mastercard,Jag,2018-05-31
+Product1,1200,Mastercard,Charlene ,2018-05-31
+Product1,1200,Amex,Fiona,2018-05-31
+Product1,1200,Mastercard,burt,2018-05-31
+Product2,3600,Visa,Maggie,2018-05-31
+Product1,1200,Mastercard,Stanford,2018-05-31
+Product1,1200,Amex,ruth,2018-05-31
+Product1,1200,Visa,Courtney,2018-05-31
+Product2,3600,Amex,Courtney,2018-05-31
+Product1,1200,Diners,Anthony,2018-05-31
+Product1,1200,Visa,Eleanor,2018-05-31
+Product1,1200,Visa,GAIA,2018-05-31
+Product1,1200,Mastercard,Zane,2018-05-31
+Product1,1200,Mastercard,Beate,2018-05-31
+Product1,1200,Amex,BALA,2018-05-31
+Product1,1200,Visa,Mrs,2018-05-31
+Product1,1200,Diners,Vanessa,2018-05-31
+Product1,1200,Amex,Amanda,2018-05-31
+Product1,1200,Mastercard,alex ,2018-05-31
+Product1,1200,Mastercard,T,2018-05-31
+Product1,1200,Mastercard,Alva and Martin,2018-05-31
+Product1,1200,Visa,Anett,2018-05-31
+Product2,3600,Mastercard,Jacqui,2018-05-31
+Product1,1200,Visa,KERRY,2018-05-31
+Product1,1200,Visa,DeeDee,2018-05-31
+Product2,3600,Mastercard,leanne,2018-05-31
+Product1,1200,Visa,katie,2018-05-31
+Product1,1200,Visa,Marina,2018-05-31
+Product1,1200,Visa,camilla,2018-05-31
+Product1,1200,Visa,pirunkit,2018-05-31
+Product1,1200,Diners,Kathrin,2018-05-31
+Product1,1200,Mastercard,Kate,2018-05-31
+Product1,1200,Mastercard,Maie,2018-05-31
+Product1,1250,Mastercard,verena,2018-05-31
+Product1,1200,Visa,Marie-Christine,2018-05-31
+Product1,1200,Mastercard,Gabriella,2018-05-31
+Product1,1200,Mastercard,valerie et nicolas,2018-05-31
+Product1,1200,Visa,Nicole,2018-05-31
+Product1,1200,Visa,Renee,2018-05-31
+Product1,1200,Mastercard,Nicole,2018-05-31
+Product1,1200,Mastercard,Joachim,2018-05-31
+Product1,1200,Visa,Monica ,2018-05-31
+Product1,1200,Visa,Nanci,2018-05-31
+Product1,1200,Mastercard,Laura,2018-05-31
+Product1,1200,Visa,ciara and mike,2018-05-31
+Product1,1200,Visa,Sarah,2018-05-31
+Product2,3600,Mastercard,Anne-line,2018-05-31
+Product2,3600,Mastercard,Ulrika,2018-05-31
+Product1,1200,Amex,leigh,2018-05-31
+Product1,1200,Mastercard,Nuria,2018-05-31
+Product1,1200,Mastercard,Tejal,2018-05-31
+Product1,1200,Mastercard,Ignacio,2018-05-31
+Product1,1200,Visa,ZOE,2018-05-31
+Product1,1200,Mastercard,nihan,2018-05-31
+Product1,1200,Visa,alan,2018-05-31
+Product1,1200,Amex,lydia,2018-05-31
+Product1,1200,Visa,Tracey,2018-05-31
+Product1,1200,Visa,Anja,2018-05-31
+Product1,1200,Diners,Jennifer,2018-05-31
+Product1,1200,Visa,Holly,2018-05-31
+Product1,1200,Diners,megan,2018-05-31
+Product1,1200,Mastercard,Tarah,2018-05-31
+Product1,1200,Visa,Gerardo,2018-05-31
+Product1,1200,Visa,Joanne,2018-05-31
+Product1,1200,Visa,Margaret,2018-05-31
+Product1,1200,Visa,Laura,2018-05-31
+Product1,1200,Visa,Whitney,2018-05-31
+Product1,1200,Visa,Ravinder,2018-05-31
+Product1,1200,Visa,Pam,2018-05-31
+Product1,1200,Mastercard,Celina,2018-05-31
+Product1,1200,Diners,Heather,2018-05-31
+Product1,1200,Mastercard,Kathryn,2018-05-31
+Product1,1200,Visa,Michele ,2018-05-31
+Product1,1200,Visa,Craig,2018-05-31
+Product1,1200,Visa,Kim,2018-05-31
+Product1,1200,Amex,maria,2018-05-31
+Product1,1200,Visa,Elaine,2018-05-31
+Product1,1200,Visa,Madison,2018-05-31
+Product1,1200,Visa,Amanda,2018-05-31
+Product1,1200,Visa,Krista,2018-05-31
+Product1,1200,Visa,Sarah,2018-05-31
+Product1,1200,Mastercard,Sarah,2018-05-31
+Product2,3600,Amex,Pamela,2018-05-31
+Product1,1200,Visa,Christine,2018-05-31
+Product3,7500,Mastercard,Diana,2018-05-31
+Product1,1200,Amex,mary,2018-05-31
+Product1,1200,Visa,Helena,2018-05-31
+Product1,1200,Visa,nina,2018-05-31
+Product1,1200,Amex,Mark,2018-05-31
+Product1,1200,Visa,alice and rudolf,2018-05-31
+Product1,1200,Visa,Costanza,2018-05-31
+Product1,1200,Mastercard,Yoko,2018-05-31
+Product1,1200,Mastercard,Barbara,2018-05-31
+Product1,1200,Mastercard,Kit,2018-05-31
+Product2,3600,Visa,cristina,2018-05-31
+Product1,1200,Amex,linda,2018-05-31
+Product1,1200,Mastercard,Christyna,2018-05-31
+Product1,1200,Visa,Alicja ,2018-05-31
+Product1,1200,Visa,Rachel,2018-05-31
+Product1,1200,Amex,Rachel,2018-05-31
+Product1,1200,Visa,Jan,2018-05-31
+Product1,1200,Diners,Karin,2018-05-31
+Product2,3600,Amex,ron ,2018-05-31
+Product1,1200,Mastercard,Sharon,2018-05-31
+Product1,1200,Mastercard,Anna,2018-05-31
+Product1,1200,Mastercard,Laura,2018-05-31
+Product1,1200,Visa,Yana,2018-05-31
+Product1,1200,Visa,Katherine,2018-05-31
+Product1,1200,Diners,Therese,2018-05-31
+Product1,1200,Amex,Francoise ,2018-05-31
+Product2,3600,Amex,Elizabeth,2018-05-31
+Product1,1200,Amex,Corinne,2018-05-31
+Product1,1200,Visa,Ec,2018-05-31
+Product1,1200,Visa,Carmen,2018-05-31
+Product2,3600,Amex,Brittany,2018-05-31
+Product1,1200,Mastercard,Sandrine,2018-05-31
+Product1,1200,Mastercard,asuncion ,2018-05-31
+Product1,1200,Visa,Sophie,2018-05-31
+Product1,1200,Amex,Henrietta,2018-05-31
+Product1,1200,Visa,DD,2018-05-31
+Product1,1200,Visa,Jennifer,2018-05-31
+Product1,1200,Visa,samuel,2018-05-31
+Product1,1200,Amex,Angelina  Patrick,2018-05-31
+Product1,1200,Visa,Sven,2018-05-31
+Product1,1200,Visa,Toni,2018-05-31
+Product1,1200,Visa,Patrick,2018-05-31
+Product1,1200,Visa,jason,2018-05-31
+Product1,250,Visa,Tabatha,2018-05-31
+Product2,3600,Visa,Aline,2018-05-31
+Product2,3600,Visa,Debra,2018-05-31
+Product1,1200,Mastercard,Natasha,2018-05-31
+Product1,1200,Mastercard,Melinda,2018-05-31
+Product1,1200,Visa,Luc1nda,2018-05-31
+Product1,1200,Visa,Kim,2018-05-31
+Product1,1200,Amex,Britlyn ,2018-05-31
+Product1,1200,Diners,Adam,2018-05-31
+Product1,1200,Visa,Mimi,2018-05-31
+Product1,1200,Visa,Liann,2018-05-31
+Product1,1200,Mastercard,Sarah,2018-05-31
+Product1,1200,Diners,Naseer,2018-05-31
+Product1,1200,Amex,Caroline,2018-05-31
+Product1,1800,Amex,Karena,2018-05-31
+Product1,1200,Amex,janet,2018-05-31
+Product3,7500,Visa,Hans,2018-05-31
+Product1,1200,Visa,Sandra  Thierry  Zoe,2018-05-31
+Product1,1200,Mastercard,Eleanor,2018-05-31
+Product1,1200,Visa,Anna,2018-05-31
+Product1,1200,Visa,Cara ,2018-05-31
+Product1,1200,Visa,carolien,2018-05-31
+Product1,1200,Mastercard,Ana,2018-05-31
+Product1,1200,Visa,Patrick,2018-05-31
+Product1,1200,Visa,Heidi,2018-05-31
+Product1,1200,Visa,Tom,2018-05-31
+Product1,1200,Amex,Justine,2018-05-31
+Product1,1200,Visa,isabel,2018-05-31
+Product3,7500,Visa,scott,2018-05-31
+Product1,1200,Visa,Fatima,2018-05-31
+Product1,1200,Visa,Judy,2018-05-31
+Product1,1200,Visa,Glenn,2018-05-31
+Product1,1200,Amex,Family in,2018-05-31
+Product1,1200,Visa,Lauren,2018-05-31
+Product3,7500,Visa,Michael,2018-05-31
+Product1,1200,Visa,Jodi,2018-05-31
+Product1,1200,Mastercard,simone,2018-05-31
+Product1,1200,Diners,Sonja,2018-05-31
+Product1,1200,Mastercard,Shane,2018-05-31
+Product2,3600,Amex,Ruth,2018-05-31
+Product1,1200,Mastercard,Cleo,2018-05-31
+Product1,1200,Diners,Benoit,2018-05-31
+Product1,1200,Amex,Claire,2018-05-31
+Product1,1200,Visa,Claire,2018-05-31
+Product1,1200,Visa,Lindsey,2018-05-31
+Product2,3600,Visa,Nicola,2018-05-31
+Product2,3600,Mastercard,PATRICK,2018-05-31
+Product1,1200,Visa,jennifer,2018-05-31
+Product1,1200,Visa,Amy,2018-05-31
+Product1,1200,Mastercard,Whitney,2018-05-31
+Product1,1200,Visa,Astrid,2018-05-31
+Product1,1200,Visa,jo,2018-05-31
+Product1,1200,Visa,Michelle,2018-05-31
+Product1,1200,Mastercard,TG,2018-05-31
+Product1,1200,Mastercard,Emily,2018-05-31
+Product2,3600,Visa,Niki,2018-05-31
+Product1,1200,Visa,Sarah,2018-05-31
+Product1,1200,Visa,sherry,2018-05-31
+Product2,3600,Amex,Laura,2018-05-31
+Product1,1200,Mastercard,Carmela,2018-05-31
+Product1,1200,Diners,Matt,2018-05-31
+Product1,1200,Visa,Karen,2018-05-31
+Product1,1200,Visa,Joanne,2018-05-31
+Product1,1200,Visa,Stephanie,2018-05-31
+Product1,1200,Visa,Hurst,2018-05-31
+Product1,1200,Visa,Liza,2018-05-31
+Product1,1200,Mastercard,Michele,2018-05-31
+Product3,7500,Visa,Karin,2018-05-31
+Product1,1200,Amex,cath,2018-05-31
+Product2,3600,Visa,eva,2018-05-31
+Product1,1200,Amex,Andrea ,2018-05-31
+Product1,1200,Mastercard,Sabine,2018-05-31
+Product1,1200,Mastercard,Aideen and Jonathan,2018-05-31
+Product1,1200,Visa,George,2018-05-31
+Product1,1200,Visa,Helen,2018-05-31
+Product1,1200,Diners,C,2018-05-31
+Product1,1200,Visa,chris,2018-05-31
+Product1,1200,Visa,maggie,2018-05-31
+Product1,1200,Amex,Mareike,2018-05-31
+Product1,1200,Visa,lamia,2018-05-31
+Product1,1200,Visa,Madhu,2018-05-31
+Product1,13000,Visa,sandhya,2018-05-31
+Product1,1200,Amex,Kimberly,2018-05-31
+Product1,1200,Visa,Tania,2018-05-31
+Product1,1200,Visa,andrea,2018-05-31
+Product1,1200,Mastercard,John,2018-05-31
+Product2,3600,Visa,carol,2018-05-31
+Product1,1200,Visa,Nona,2018-05-31
+Product2,3600,Visa,Family,2018-05-31
+Product2,3600,Visa,Michelle,2018-05-31
+Product2,3600,Visa,Kathryn,2018-05-31
+Product1,1200,Visa,Oswald,2018-05-31
+Product1,1200,Visa,Elyssa,2018-05-31
+Product1,1200,Visa,michelle,2018-05-31
+Product1,1200,Mastercard,Alicia,2018-05-31
+Product1,1200,Mastercard,JP,2018-05-31
+Product2,3600,Visa,Geraldine,2018-05-31
+Product1,1200,Mastercard,sandra,2018-05-31
+Product1,1200,Visa,Olivia,2018-05-31
+Product2,3600,Mastercard,Tom,2018-05-31
+Product1,1200,Visa,Annette ,2018-05-31
+Product1,1200,Visa,SUSAN,2018-05-31
+Product2,3600,Visa,Michael,2018-05-31
+Product1,1200,Visa,ashton,2018-05-31
+Product1,1200,Visa,Scott,2018-05-31
+Product2,3600,Visa,Pam,2018-05-31
+Product1,1200,Visa,Lisa ,2018-05-31
+Product2,3600,Mastercard,Pavel,2018-05-31
+Product1,1200,Visa,Richard,2018-05-31
+Product1,1200,Visa,Jasinta Jeanne,2018-05-31
+Product1,1200,Visa,Rachel,2018-05-31
+Product1,1200,Amex,Cherish ,2018-05-31
+Product1,1200,Visa,Shona ,2018-05-31
+Product1,1200,Mastercard,Abikay,2018-05-31
+Product1,1200,Amex,Abikay,2018-05-31
+Product2,3600,Visa,Kendra,2018-05-31
+Product1,1200,Visa,amanda,2018-05-31
+Product2,3600,Amex,Leila,2018-05-31
+Product1,1200,Amex,amanda,2018-05-31
+Product1,1200,Visa,Stacy,2018-05-31
+Product2,3600,Visa,Derrick,2018-05-31
+Product1,1200,Visa,Jacob,2018-05-31
+Product1,1200,Mastercard,DOREEN,2018-05-31
+Product1,1200,Diners,eugenia,2018-05-31
+Product1,1200,Visa,Karen,2018-05-31
+Product1,1200,Visa,Bea,2018-05-31
+Product1,1200,Diners,Hilde Karin,2018-05-31
+Product1,1200,Visa,Rima,2018-05-31
+Product1,1200,Visa,Ruangrote,2018-05-31
+Product1,1200,Amex,pamela,2018-05-31
+Product2,3600,Visa,Emillie,2018-05-31
+Product1,1200,Visa,sangeeta,2018-05-31
+Product1,1200,Visa,Anja,2018-05-31
+Product1,1200,Mastercard,Andrew,2018-05-31
+Product1,1200,Visa,Bato,2018-05-31
+Product1,1200,Mastercard,Ailsa ,2018-05-31
+Product1,1200,Visa,Sophie,2018-05-31
+Product1,1200,Visa,Katrin,2018-05-31
+Product2,3600,Mastercard,Kelly ,2018-05-31
+Product1,1200,Visa,Tomasz,2018-05-31
+Product1,1200,Visa,Elizabeth,2018-05-31
+Product2,3600,Amex,Michael,2018-05-31
+Product2,3600,Visa,Natasha,2018-05-31
+Product2,3600,Mastercard,Meredith,2018-05-31
+Product1,1200,Mastercard,Nicole,2018-05-31
+Product1,1200,Visa,Ryan,2018-05-31
+Product1,1200,Visa,Mary ,2018-05-31
+Product1,1200,Diners,Aaron,2018-05-31
+Product1,1200,Visa,Bertrand,2018-05-31
+Product1,1200,Mastercard,Zoe,2018-05-31
+Product1,1200,Mastercard,Trine Marie,2018-05-31
+Product1,1200,Diners,Kim,2018-05-31
+Product1,1200,Visa,John ,2018-05-31
+Product1,1200,Visa,Rich,2018-05-31
+Product1,1200,Diners,Kayla,2018-05-31
+Product1,1200,Visa,Richard and Comfort,2018-05-31
+Product1,1200,Visa,Eric,2018-05-31
+Product1,1200,Mastercard,Melissa,2018-05-31
+Product1,1200,Diners,Dawn,2018-05-31
+Product1,1200,Mastercard,Tamara,2018-05-31
+Product1,1200,Visa,Ashley,2018-05-31
+Product1,1200,Visa,familly ,2018-05-31
+Product1,1200,Mastercard,Ken,2018-05-31
+Product1,1200,Visa,Tori,2018-05-31
+Product2,3600,Mastercard,Hanne,2018-05-31
+Product1,1200,Amex,Precious,2018-05-31
+Product1,1200,Visa,Michelle,2018-05-31
+Product1,1200,Visa,Paula,2018-05-31
+Product1,1200,Visa,Stephanie,2018-05-31
+Product1,1200,Visa,kemp,2018-05-31
+Product2,3600,Diners,Therese,2018-05-31
+Product1,1200,Diners,Mona,2018-05-31
+Product1,1200,Visa,Caroline,2018-05-31
+Product1,1200,Mastercard,Andrea,2018-05-31
+Product1,1200,Mastercard,Pilar,2018-05-31
+Product1,1200,Visa,Lisa,2018-05-31
+Product1,1200,Amex,A,2018-05-31
+Product1,1200,Mastercard,Yvette,2018-05-31
+Product2,3600,Amex,Katie,2018-05-31
+Product1,1200,Visa,Nicole,2018-05-31
+Product1,1200,Mastercard,Kelly,2018-05-31
+Product2,3600,Visa,george,2018-05-31
+Product1,1200,Mastercard,Samantha,2018-05-31
+Product1,1200,Visa,Caterina,2018-05-31
+Product1,1200,Visa,Kate,2018-05-31
+Product1,1200,Mastercard,Tina,2018-05-31
+Product1,1200,Visa,Emily,2018-05-31
+Product1,1200,Amex,Maricel,2018-05-31
+Product1,1200,Visa,Patricia,2018-05-31
+Product1,1200,Mastercard,steve,2018-05-31
+Product1,1200,Amex,Darrah,2018-05-31
+Product1,1200,Visa,Sara,2018-05-31
+Product1,1200,Visa,Erika,2018-05-31
+Product1,1200,Visa,Audrey,2018-05-31
+Product1,1200,Visa,Louise,2018-05-31
+Product1,1200,Diners,Karen,2018-05-31
+Product1,1200,Amex,Maki,2018-05-31
+Product1,1200,Visa,Peter,2018-05-31
+Product1,1200,Diners,Ashlee,2018-05-31
+Product1,1200,Mastercard,Anja,2018-05-31
+Product1,1200,Visa,Ellen Walton ,2018-05-31
+Product1,1200,Mastercard,Jessica,2018-05-31
+Product1,1200,Visa,Wouter and Andrea,2018-05-31
+Product1,1200,Visa,Pam and Rob,2018-05-31
+Product1,1200,Visa,Elsa,2018-05-31
+Product1,1200,Amex,kathleen kane,2018-05-31
+Product1,1200,Diners,Selene,2018-05-31
+Product1,1200,Visa,Christy,2018-05-31
+Product2,3600,Visa,Hanna Agla,2018-05-31
+Product1,1200,Visa,Elyse,2018-05-31
+Product1,1200,Mastercard,Alexis,2018-05-31
+Product1,1200,Visa,M George,2018-05-31
+Product1,1200,Visa,John,2018-05-31
+Product1,1200,Visa,cheryl,2018-05-31
+Product1,1200,Amex,R,2018-05-31
+Product2,3600,Visa,Charlene ,2018-05-31
+Product1,1200,Visa,Cindy,2018-05-31
+Product1,1200,Visa,Ed,2018-05-31
+Product1,1200,Mastercard,Astrid,2018-05-31
+Product1,1200,Visa,Nicole,2018-05-31
+Product1,1200,Visa,Maria Macarena,2018-05-31
+Product1,1200,Visa,Maggie,2018-05-31
+Product2,3600,Amex,Christophe,2018-05-31
+Product1,1200,Diners,Manoj,2018-05-31
+Product1,1200,Visa,Brenda,2018-05-31
+Product1,1200,Mastercard,Lizelle ,2018-05-31
+Product2,3600,Visa,Kees en Valesca,2018-05-31
+Product1,1200,Visa,Cormac,2018-05-31
+Product1,1200,Visa,jacqueline,2018-05-31
+Product1,1200,Visa,Martin,2018-05-31
+Product1,1200,Mastercard,Dean,2018-05-31
+Product1,1200,Visa,VERBENA,2018-05-31
+Product1,1200,Mastercard,Angel Marie,2018-05-31
+Product1,1200,Visa,olla,2018-05-31
+Product2,3600,Visa,Eman,2018-05-31
+Product2,3600,Visa,Julia,2018-05-31
+Product1,1200,Visa,Sarah,2018-05-31
+Product1,1200,Visa,Esther,2018-05-31
+Product1,1200,Diners,amy,2018-05-31
+Product2,3600,Mastercard,Jyoti,2018-05-31
+Product2,3600,Visa,Keri,2018-05-31
+Product1,1200,Diners,Paul,2018-05-31
+Product1,1200,Mastercard,Attie,2018-05-31
+Product1,1200,Visa,odile,2018-05-31
+Product1,1200,Visa,gail ,2018-05-31
+Product1,1200,Visa,Niki,2018-05-31
+Product2,3600,Visa,Danny,2018-05-31
+Product1,1200,Mastercard,Sarah,2018-05-31
+Product1,1200,Visa,Beckie ,2018-05-31
+Product1,1200,Visa,Maryse,2018-05-31
+Product2,3600,Mastercard,don,2018-05-31
+Product1,1200,Visa,Majken,2018-05-31
+Product1,1200,Amex,Karen and Andrew,2018-05-31
+Product1,1200,Visa,Katerina,2018-05-31
+Product1,1200,Mastercard,Mary,2018-05-31
+Product1,1200,Visa,Oscar,2018-05-31
+Product1,1200,Diners,Suejean,2018-05-31
+Product1,1200,Amex,ann,2018-05-31
+Product1,1200,Visa,Renee,2018-05-31
+Product1,1200,Visa,Catherine,2018-05-31
+Product1,1200,Amex,Rhonda,2018-05-31
+Product1,1200,Amex,alix,2018-05-31
+Product1,1200,Visa,Mike,2018-05-31
+Product1,1200,Visa,Diane,2018-05-31
+Product1,1200,Visa,Sigrun,2018-05-31
+Product1,1200,Visa,Dania,2018-05-31
+Product2,3600,Mastercard,Kelsi,2018-05-31
+Product1,1200,Visa,Maria,2018-05-31
+Product1,1200,Visa,Bent Erik,2018-05-31
+Product1,1200,Amex,Kirsten,2018-05-31
+Product1,1200,Visa,Dickson,2018-05-31
+Product1,1200,Diners,Howard,2018-05-31
+Product1,1200,Visa,Dana,2018-05-31
+Product1,1200,Mastercard,Nola,2018-05-31
+Product1,1200,Visa,Elizabeth,2018-05-31
+Product2,3600,Visa,minjeong,2018-05-31
+Product1,1200,Visa,Matt,2018-05-31
+Product1,1200,Visa,Vanessa,2018-05-31
+Product2,3600,Visa,Charlotte,2018-05-31
+Product1,1200,Visa,Rowena,2018-05-31
+Product1,1200,Visa,Catherine,2018-05-31
+Product1,1200,Mastercard,Sarah,2018-05-31
+Product1,1200,Visa,sorcha,2018-05-31
+Product1,1200,Visa,sorcha,2018-05-31
+Product1,1200,Mastercard,Mary,2018-05-31
+Product1,1200,Visa,Ronja,2018-05-31
+Product1,1200,Visa,Nicola ,2018-05-31
+Product1,1200,Amex,BURCAK,2018-05-31
+Product1,1200,Visa,isabelle,2018-05-31
+Product1,1200,Mastercard,christy,2018-05-31
+Product1,1200,Visa,Lilly,2018-05-31
+Product1,1200,Diners,Mandy,2018-05-31
+Product1,1200,Mastercard,Elena,2018-05-31
+Product1,1200,Visa,Lolarae,2018-05-31
+Product1,1200,Mastercard,Lisa,2018-05-31
+Product1,1200,Mastercard,Nita and Trebor,2018-05-31
+Product1,1200,Visa,Jenevieve,2018-05-31
+Product2,3600,Mastercard,Piret,2018-05-31
+Product1,1200,Mastercard,Damian,2018-05-31
+Product1,1200,Mastercard,Lusell,2018-05-31
+Product1,1200,Visa,Costanza,2018-05-31
+Product1,1200,Visa,Vanessa,2018-05-31
+Product1,1200,Diners,Evelyn,2018-05-31
+Product1,1200,Amex,Nicola,2018-05-31
+Product1,1200,Visa,Simone,2018-05-31
+Product1,1200,Mastercard,Elisabeth,2018-05-31
+Product1,1200,Visa,Kasey,2018-05-31
+Product2,3600,Amex,Olympe,2018-05-31
+Product1,1200,Visa,James,2018-05-31
+Product1,1200,Visa,Alyssa,2018-05-31
+Product1,1200,Visa,Reto,2018-05-31
+Product1,1200,Amex,Joelle,2018-05-31
+Product1,1200,Mastercard,Nicole,2018-05-31
+Product1,1200,Mastercard,Alexandria,2018-05-31
+Product1,1200,Mastercard,Elisabeth,2018-05-31
+Product1,1200,Visa,Ann,2018-05-31
+Product1,1200,Visa,Olga,2018-05-31
+Product1,1200,Visa,Courtney,2018-05-31
+Product1,1200,Visa,stacy,2018-05-31
+Product2,3600,Amex,Monica,2018-05-31
+Product2,3600,Visa,Michael,2018-05-31
+Product1,1200,Visa,Katrin,2018-05-31
+Product2,3600,Mastercard,Louise,2018-05-31
+Product1,1200,Amex,Alfredo A,2018-05-31
+Product2,3600,Visa,Kerry,2018-05-31
+Product1,1200,Visa,Saeko ,2018-05-31
+Product2,3600,Visa,VIOLETA,2018-05-31
+Product1,1200,Visa,Antje,2018-05-31
+Product1,1200,Visa,janet,2018-05-31
+Product1,1200,Visa,claire ,2018-05-31
+Product1,1200,Mastercard,Nathalie,2018-05-31
+Product1,1200,Mastercard,Daria,2018-05-31
+Product1,1200,Visa,Judith L.,2018-05-31
+Product1,1200,Visa,Audinet,2018-05-31
+Product1,1200,Visa,William,2018-05-31
+Product1,1200,Diners,Tatjana and Martin,2018-05-31
+Product1,1200,Mastercard,Scott,2018-05-31
+Product3,7500,Mastercard,Brona,2018-05-31
+Product1,1200,Mastercard,Andree,2018-05-31
+Product1,1200,Visa,Aziz,2018-05-31
+Product1,1200,Visa,Fernando,2018-05-31
+Product1,1200,Visa,Jo,2018-05-31
+Product1,1200,Visa,Joern,2018-05-31
+Product2,3600,Visa,Melissa,2018-05-31
+Product1,1200,Visa,Melissa,2018-05-31
+Product1,1200,Mastercard,isabela,2018-05-31
+Product1,1200,Visa,Nacole,2018-05-31
+Product1,1200,Diners,Jennifer,2018-05-31
+Product1,1200,Diners,Mary,2018-05-31
+Product1,1200,Visa,Lisa,2018-05-31
+Product1,1200,Diners,Debora ,2018-05-31
+Product2,3600,Mastercard,Karoline ,2018-05-31
+Product2,3600,Mastercard,Jo ,2018-05-31
+Product1,1200,Amex,Kristen,2018-05-31
+Product2,3600,Visa,Astrid,2018-05-31
+Product1,1200,Mastercard,Malinda,2018-05-31
+Product1,1200,Amex,Sylvia,2018-05-31
+Product1,1200,Visa,Jupiterlina Elika,2018-05-31
+Product1,1200,Visa,Aniko,2018-05-31
+Product1,1200,Mastercard,Petra,2018-05-31
+Product1,1200,Mastercard,Heather,2018-05-31
+Product1,1200,Mastercard,Kim,2018-05-31
+Product1,1200,Amex,Ruby,2018-05-31
+Product1,1200,Visa,Novy ,2018-05-31
+Product2,3600,Visa,Stephanie,2018-05-31
+Product1,1200,Mastercard,Tammy,2018-05-31
+Product1,1200,Visa,Alessandra,2018-05-31
+Product1,1200,Mastercard,Cathy,2018-05-31
+Product2,3600,Visa,Scott,2018-05-31
+Product1,1200,Amex,dia,2018-05-31
+Product1,1200,Visa,Lauren,2018-05-31
+Product1,1200,Visa,Line,2018-05-31
+Product1,1200,Amex,Sean,2018-05-31
+Product1,1200,Diners,Sarah,2018-05-31
+Product1,1200,Visa,Brian,2018-05-31
+Product1,1200,Mastercard,Lesa,2018-05-31
+Product1,1200,Mastercard,james,2018-05-31
+Product1,1200,Mastercard,loudon,2018-05-31
+Product1,1200,Mastercard,Allison,2018-05-31
+Product1,1200,Mastercard,Surat,2018-05-31
+Product2,3600,Mastercard,Judy,2018-05-31
+Product1,1200,Diners,brian,2018-05-31
+Product1,1200,Visa,Rachel,2018-05-31
+Product1,1200,Mastercard,Hilde,2018-05-31
+Product1,1200,Mastercard,Tarja,2018-05-31
+Product1,1200,Visa,Megan,2018-05-31
+Product2,3600,Visa,Charmain,2018-05-31
+Product1,1200,Visa,Katharina,2018-05-31
+Product1,1200,Visa,Zaneta ,2018-05-31
+Product1,1200,Visa,Jeannette,2018-05-31
+Product2,3600,Visa,Liz,2018-05-31
+Product2,3600,Mastercard,Christiane,2018-05-31
+Product1,1200,Visa,Cherie,2018-05-31
+Product2,3600,Visa,Shiree,2018-05-31
+Product1,1200,Mastercard,Tracey,2018-05-31
+Product1,1200,Diners,Scott ,2018-05-31
+Product1,1200,Visa,Frances,2018-05-31
+Product1,1200,Mastercard,Beatrice,2018-05-31
+Product2,3600,Visa,Jessica,2018-05-31
+Product1,1200,Amex,Alison,2018-05-31
+Product1,1200,Visa,elaine,2018-05-31
+Product1,1200,Visa,Chevonne,2018-05-31
+Product1,1200,Visa,danielle,2018-05-31
+Product1,1200,Mastercard,Caroline and Jonathan,2018-05-31
+Product1,1200,Visa,manuela,2018-05-31
+Product1,1200,Visa,Carole,2018-05-31
+Product2,3600,Amex,Ghislaine,2018-05-31
+Product2,3600,Visa,Christian,2018-05-31
+Product1,1200,Visa,Hollie,2018-05-31
+Product1,1200,Visa,mike,2018-05-31
+Product1,1200,Mastercard,Malahat,2018-05-31
+Product1,1200,Amex,Michaela,2018-05-31
+Product1,1200,Amex,Amy,2018-05-31
+Product1,1200,Mastercard,Brandi,2018-05-31
+Product1,1200,Visa,erin,2018-05-31
+Product1,1200,Diners,Tracy,2018-05-31
+Product1,1200,Visa,Polyxene,2018-05-31
+Product2,3600,Mastercard,Jean,2018-05-31
+Product1,1200,Diners,Andrea,2018-05-31
+Product1,1200,Mastercard,Jessica,2018-05-31
+Product1,1200,Mastercard,David,2018-05-31
+Product2,3600,Mastercard,Caroline,2018-05-31
+Product1,1200,Visa,Riche Lou,2018-05-31
+Product1,1200,Mastercard,Chris,2018-05-31
+Product2,3600,Visa,Karen,2018-05-31
+Product1,1200,Diners,melanie,2018-05-31
+Product1,1200,Visa,beatrice,2018-05-31
+Product1,1200,Mastercard,lorna,2018-05-31
+Product1,1200,Amex,Tary,2018-05-31
+Product1,1200,Visa,Julie ,2018-05-31
+Product1,1200,Amex,Julie ,2018-05-31
+Product1,1200,Mastercard,Jerome,2018-05-31
+Product1,1200,Visa,Laleh,2018-05-31
+Product1,1200,Visa,Michael,2018-05-31
+Product1,1200,Visa,Kerry,2018-05-31
+Product3,7500,Mastercard,Anita,2018-05-31
+Product1,1200,Mastercard,Veronique,2018-05-31
+Product1,1200,Visa,Sarah,2018-05-31
+Product1,1200,Diners,Simone,2018-05-31
+Product1,1200,Visa,Jackie,2018-05-31
+Product1,1200,Visa,giovanna,2018-05-31
+Product1,1200,Visa,Elizabeth,2018-05-31
+Product2,3600,Visa,Lisa,2018-05-31
+Product1,1200,Mastercard,Maki,2018-05-31
+Product1,1200,Amex,Anjan,2018-05-31
+Product1,1200,Mastercard,Sarah,2018-05-31
+Product1,1200,Mastercard,Niamh,2018-05-31
+Product2,3600,Diners,elizabeth r,2018-05-31
+Product1,1200,Visa,Elaine,2018-05-31
+Product1,1200,Diners,Elizabeth,2018-05-31
+Product1,1200,Visa,Sara,2018-05-31
+Product2,3600,Amex,Tulin,2018-05-31
+Product1,1200,Visa,Kenneth,2018-05-31
+Product1,1200,Mastercard,Fiona,2018-05-31
+Product1,1200,Visa,Christian,2018-05-31
+Product3,7500,Diners,Michel,2018-05-31
+Product3,7500,Diners,natalie,2018-05-31
+Product1,1200,Diners,jure,2018-05-31
+Product1,1200,Amex,Elizabeth ,2018-05-31
+Product1,1200,Amex,Juliann,2018-05-31
+Product1,1200,Mastercard,Julie ,2018-05-31
+Product1,1200,Mastercard,philippa katherine,2018-05-31
+Product2,3600,Mastercard,Anthony,2018-05-31
+Product1,1200,Visa,matthew,2018-05-31
+Product1,1200,Visa,Steven,2018-05-31
+Product1,1200,Amex,Angie,2018-05-31
+Product1,1200,Mastercard,Lauren,2018-05-31
+Product1,1200,Mastercard,Esther,2018-05-31
+Product1,1200,Visa,Elizabeth,2018-05-31
+Product2,3600,Visa,marie-louise,2018-05-31
+Product2,3600,Mastercard,Tanya,2018-05-31
+Product1,1200,Mastercard,Detlev,2018-05-31
+Product2,3600,Visa,Stephen,2018-05-31
+Product1,1200,Visa,Roza,2018-05-31
+Product2,3600,Amex,John,2018-05-31
+Product1,1200,Mastercard,paula,2018-05-31
+Product1,1200,Visa,Kathryn,2018-05-31
+Product1,1200,Mastercard,Isabelle,2018-05-31
+Product1,1200,Visa,Maureen,2018-05-31
+Product1,1200,Visa,David,2018-05-31
+Product1,1200,Diners,caterina,2018-05-31
+Product2,3600,Mastercard,Parth,2018-05-31
+Product1,1200,Visa,Alexia,2018-05-31
+Product2,3600,Mastercard,Gloria Gail ,2018-05-31
+Product1,1200,Visa,Gloria Gail ,2018-05-31
+Product2,3600,Mastercard,Cheryl,2018-05-31
+Product3,7500,Visa,Frank and Christelle,2018-05-31
+Product2,3600,Mastercard,Triona,2018-05-31
+Product1,1200,Visa,Allison,2018-05-31
+Product1,1200,Diners,Phillip,2018-05-31
+Product1,1200,Visa,jingyan,2018-05-31
+Product2,3600,Diners,clara,2018-05-31
+Product1,1200,Mastercard,Selma,2018-05-31
+Product1,1200,Visa,Doug and Tina,2018-05-31
+Product1,1200,Visa,Lauren,2018-05-31
+Product1,1200,Visa,Jen,2018-05-31
+Product1,1200,Visa,gladys,2018-05-31
+Product1,1200,Mastercard,Gustavo,2018-05-31
+Product1,1200,Visa,Erica,2018-05-31
+Product1,1200,Diners,Hale,2018-05-31
+Product1,1200,Visa,Rosemary,2018-05-31
+Product1,1200,Visa,Darian,2018-05-31
+Product1,1200,Mastercard,Kevin,2018-05-31
+Product1,1200,Visa,Alyssa,2018-05-31
+Product1,1200,Visa,Hale,2018-05-31
+Product1,1200,Mastercard,KELI,2018-05-31
+Product1,1200,Visa,Glen,2018-05-31
+Product1,1200,Visa,T,2018-05-31
+Product1,1200,Visa,christal,2018-05-31
+Product1,1200,Mastercard,Alex,2018-05-31
+Product2,3600,Mastercard,Anke,2018-05-31
+Product2,3600,Mastercard,TRICIA,2018-05-31
+Product1,1200,Mastercard,smith,2018-05-31
+Product1,1200,Visa,Macy,2018-05-31
+Product1,1200,Mastercard,Lesleigh,2018-05-31
+Product2,3600,Diners,esther,2018-05-31
+Product1,1200,Visa,Hans-Joerg,2018-05-31
+Product2,3600,Visa,Christiane,2018-05-31
+Product3,7500,Amex,Pamela,2018-05-31
+Product1,1200,Diners,julie,2018-05-31
+Product1,1200,Visa,Julia ,2018-05-31

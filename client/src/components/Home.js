@@ -7,7 +7,7 @@ class Home extends React.Component{
         return(
             <div className="Home">
                 <p><strong>Welcome to the HBC Schedule release, please upload a .CSV file of the schedule to continue.</strong></p>
-                <Upload/>
+                <Upload getScheduleId={this.props.getScheduleId}/>
             </div>
         );
     }
