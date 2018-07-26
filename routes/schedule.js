@@ -30,11 +30,16 @@ async function readJson (req, res, scheduleId){
     .on('json',(jsonObj)=>{
         const shift = new Shift({
             fkUid: mongoose.Types.ObjectId(scheduleId),
-            item: jsonObj.Product,
-            price: jsonObj.Price,
-            paymentType: jsonObj.Payment_Type,
-            custName: jsonObj.Name,
-            effectiveDate: jsonObj.Date,
+            email: jsonObj.Email,
+            firstName: jsonObj.firstName,
+            lastName: jsonObj.lastName,
+            monday: jsonObj.Monday,
+            tuesday: jsonObj.Tuesday,
+            wednesday: jsonObj.Wednesday,
+            thursday: jsonObj.Thursday,
+            friday: jsonObj.Friday,
+            saturday: jsonObj.Saturday,
+            sunday: jsonObj.Sunday
         });
         shift.save();
     })
@@ -64,17 +69,21 @@ router.get('/all', async function (req, res) {
 });
 
 
-router.get('/:id', async function (req, res) {
-    await mongoose.connect('mongodb://localhost:27017/Schedules').exec;
-    await Shift.find({'fkUid': mongoose.Types.ObjectId(req.params.id)}).exec(async function (err, shift) {
-        if(err){
-            console.log(err);
-            res.render('error');
-        }else{
-            res.setHeader('Access-Control-Allow-Origin', '*');
-            res.send(shift);
-        }
-    });
+router.get('/date?:date', async function (req, res){
+    let shifts = [];
+   await mongoose.connect('mongodb://localhost:27017/Schedules').exec;
+   await Schedule.find({'effectiveWeek': req.query.date}, {'_id' : 1}).exec(async function (err, schedules) {
+       if(err){
+           console.log('error');
+       }else{
+           let promises = [];
+           promises.push(Shift.find({'fkUid' : {$in : schedules}}).exec());
+           const result = await Promise.all(promises);
+           const shifts = await result.pop();
+           res.setHeader('Access-Control-Allow-Origin', '*');
+           res.send(shifts);
+       }
+   });
 });
 
 router.post('/submit', upload.single('ScheduleFile'), async function(req, res) {
@@ -86,8 +95,6 @@ router.post('/submit', upload.single('ScheduleFile'), async function(req, res) {
             console.log('error!!!!:' + err);
         }else {
             await readJson(req, res, schedule[0]._id);
-            // res.redirect(`/schedule/${schedule[0]._id}`);
-            //res.redirect(`/schedule/current?${req.body.DateEffective}`);
             res.send(schedule[0]._id);
         }
     });
