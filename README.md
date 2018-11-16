@@ -1,4 +1,4 @@
-#Schedules To Go
+# Schedules To Go
 Schedules To Go is a node.js project utilizing technologies such as Express.js, MongoDB and React.js that allows
 users to upload a schedule in .CSV format and have it send individuels their schedules via email, along with a few
 other cool features to manage schedules.
